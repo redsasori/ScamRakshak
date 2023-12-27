@@ -1,6 +1,4 @@
 pandas
 flask
-request
 jsonify
-pickle
 scikit-learn
